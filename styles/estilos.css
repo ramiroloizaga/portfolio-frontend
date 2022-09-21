@@ -15,10 +15,6 @@ h1 {
   color: black;
 }
 
-h2 {
-  margin-top: 35px;
-}
-
 p {
   font-weight: 800;
 }
@@ -118,8 +114,9 @@ a {
   padding-top: 10px;
 }
 
-h3 {
+h2 {
   font-weight: bold;
+  padding: 20px;
 }
 .proyectos {
   width: 60%;
